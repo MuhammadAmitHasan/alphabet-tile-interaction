@@ -12,7 +12,7 @@ To get started with the project, you need to install the necessary dependencies.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alphabet-tile-interaction.git
+   git clone https://github.com/MuhammadAmitHasan/alphabet-tile-interaction.git
    ```
 2. Navigate to the project directory:
    ```bash
