@@ -2,10 +2,6 @@
 
 Welcome to the Alphabet Tile Interaction project! This README file provides instructions on how to install and run the project as well as the live link of the project.
 
-## Live demo
-
-https://alphabet-tile-interaction-jade.vercel.app/
-
 ## Installation
 
 To get started with the project, you need to install the necessary dependencies. Follow the steps below:
